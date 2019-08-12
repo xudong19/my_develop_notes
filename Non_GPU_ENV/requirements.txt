@@ -1,0 +1,35 @@
+# Build dependencies
+Cython
+
+# Deep learning platform, CPU-only
+torch
+torchvision
+tensorflow
+
+# Data processing packages
+pandas
+scipy
+scikit-learn
+numpy
+
+# Image processing packages
+opencv-python
+shapely
+Pillow
+imageio
+scikit-image
+
+# Other utils
+tqdm
+pyyaml
+numba
+jupyter
+notebook
+
+# Visualization tools
+seaborn
+matplotlib
+autopep8
+
+
+
